@@ -1,6 +1,7 @@
 {
   "name": "projeto-react",
   "version": "0.1.0",
+  "homepage": "https://Winiast.github.io/Controle-de-Gastos",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -13,7 +14,6 @@
     "styled-components": "^5.3.5",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Winiast.github.io/projeto-react",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
