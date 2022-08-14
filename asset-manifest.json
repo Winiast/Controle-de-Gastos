@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/projeto-react/static/js/main.67aaeec7.js",
-    "index.html": "/projeto-react/index.html",
-    "main.67aaeec7.js.map": "/projeto-react/static/js/main.67aaeec7.js.map"
+    "main.js": "/Controle-de-Gastos/static/js/main.aec4611f.js",
+    "index.html": "/Controle-de-Gastos/index.html",
+    "main.aec4611f.js.map": "/Controle-de-Gastos/static/js/main.aec4611f.js.map"
   },
   "entrypoints": [
-    "static/js/main.67aaeec7.js"
+    "static/js/main.aec4611f.js"
   ]
 }
